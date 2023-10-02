@@ -1,0 +1,14 @@
+{
+  "boards": [
+    {
+      "id": "613a7695389d890fec6a9e78",
+      "nickname": "Puzzles",
+      "statuses": {
+        "backlog": "In",
+        "todo": "In",
+        "doing": "In",
+        "done": "In"
+      }
+    }
+  ]
+}
